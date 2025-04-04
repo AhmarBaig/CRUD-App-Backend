@@ -15,13 +15,13 @@ Using Insomnia/Postman/other API testing tools, the routes can be tested to crea
 - Data is formed as shown below
 ```
 {
-		"_id": "67eeda1fa86c094c2946c99f",
-		"name": "pancake",
-		"quantity": 20,
-		"price": 3.99,
-		"createdAt": "2025-04-03T18:57:35.642Z",
-		"updatedAt": "2025-04-03T18:57:35.642Z",
-		"__v": 0
+	"_id": "67eeda1fa86c094c2946c99f",
+	"name": "pancake",
+	"quantity": 20,
+	"price": 3.99,
+	"createdAt": "2025-04-03T18:57:35.642Z",
+	"updatedAt": "2025-04-03T18:57:35.642Z",
+	"__v": 0
 }
 ```
 - The JSON contains the required fields: name, quantity, and price.
