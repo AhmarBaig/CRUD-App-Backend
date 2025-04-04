@@ -4,6 +4,14 @@ This is a simple CRUD application using JavaScript, NodeJS, Express and MongoDB.
 # Overview
 The CRUD application is an API that uses a NodeJS backend to connect to the data stored within a MongoDB database, and uses Express for routing.
 
+The program is organized into multiple folders. 
+```
+>>> /controllers: contains asynchronous CRUD logic for the Product
+>>> /models: contains the Product Schema
+>>> /routes: contains the CRUD routing
+>>> index.js: contains the application, middleware and connection to MongoDB
+```
+
 # Usage
 This application can be used to gain some familiarity with APIs and CRUD apps. The project can be ran locally using nodemon. Simply type:
 ```
