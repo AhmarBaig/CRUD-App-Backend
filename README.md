@@ -1,7 +1,7 @@
-# CRUD Application - Backend
+# 📱 CRUD Application - Backend
 This is a simple CRUD application using JavaScript, NodeJS, Express and MongoDB. It is essentially the MERN stack without the "R".
 
-# Overview
+# ℹ️ Overview
 The CRUD application is an API that uses a NodeJS backend to connect to the data stored within a MongoDB database, and uses Express for routing.
 
 The program is organized into multiple folders. 
@@ -12,7 +12,7 @@ The program is organized into multiple folders.
 >>> index.js: contains the application, middleware and connection to MongoDB
 ```
 
-# Usage
+# 🚀 Usage
 This application can be used to gain some familiarity with APIs and CRUD apps. The project can be ran locally using nodemon. Simply type:
 ```
 npm run dev
